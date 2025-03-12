@@ -1,5 +1,5 @@
 # IPL 2024 Match Analysis: DC vs RCB
-![image]()
+![image](https://github.com/Shaikh-areeb/IPL_2024_RCB_Vs_DC_Match_Analysis/blob/main/IPL%202024%20RCB%20Vs%20DC%20Match%20Analysis.ipynb)
 
 ## Overview
 This project presents a detailed analysis of the **IPL 2024** match between **Delhi Capitals (DC)** and **Royal Challengers Bangalore (RCB)**. The analysis includes key performance metrics, player statistics, team strategies, and insights derived from data visualization.
